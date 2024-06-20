@@ -46,7 +46,7 @@ This project is designed to detect and prevent Distributed Denial of Service (DD
 The server can be started by running the following command:
 
 ```bash
-python your_script_name.py
+python ddos_attack_manager.py.py
 ```
 
 ### Making Requests
@@ -64,7 +64,7 @@ The console output can be checked to view the status of active, suspected, and b
 
 ## File Structure
 
-- `your_script_name.py`: The main script containing the DDoS detection and prevention logic.
+- `ddos_attack_manager.py`: The main script containing the DDoS detection and prevention logic.
 - `bot.txt`: A log file where bot IPs are recorded.
 
 ## Contributing
